@@ -1,4 +1,4 @@
-# 🧠 Understanding GraphQL — The Smarter Way to Fetch Data for Modern Applications
+# Understanding GraphQL — The Smarter Way to Fetch Data for Modern Applications
 
 When building modern applications, fetching data efficiently is one of the biggest challenges developers face. Traditionally, REST APIs have been the go-to solution, but as applications grow complex and clients diversify (mobile, web, IoT), REST starts showing cracks.
 
@@ -23,9 +23,9 @@ GraphQL was developed internally by **Facebook** in **2012**, when their mobile 
 
 Facebook engineers needed a smarter way to:
 
-* Fetch **only** the required data.
-* Reduce **network requests**.
-* Keep the system **fast and flexible** across different client platforms.
+- Fetch **only** the required data.
+- Reduce **network requests**.
+- Keep the system **fast and flexible** across different client platforms.
 
 Thus, GraphQL was born.
 It was **open-sourced in 2015**, and since then, it has been adopted by major companies like GitHub, Shopify, Netflix, and Twitter.
@@ -162,16 +162,16 @@ Unlike REST endpoints, GraphQL doesn’t have a straightforward way to rate-limi
 
 ✅ **Use GraphQL when:**
 
-* Your app has **complex data relationships**.
-* You need to **aggregate data** from multiple sources.
-* You have **multiple clients** (web, mobile, etc.) consuming the same API.
-* You want **flexible and fast frontend development** without waiting for backend changes.
+- Your app has **complex data relationships**.
+- You need to **aggregate data** from multiple sources.
+- You have **multiple clients** (web, mobile, etc.) consuming the same API.
+- You want **flexible and fast frontend development** without waiting for backend changes.
 
 ❌ **Avoid GraphQL when:**
 
-* Your API is **simple and predictable**.
-* You heavily rely on **HTTP caching**.
-* You have limited time or resources to handle **server optimization**.
+- Your API is **simple and predictable**.
+- You heavily rely on **HTTP caching**.
+- You have limited time or resources to handle **server optimization**.
 
 ---
 
@@ -229,11 +229,11 @@ If you’re a full-stack developer exploring modern API architectures, learning 
 
 ### 🧩 Suggested Next Reads:
 
-* [Getting Started with Apollo Server & Client](#)
-* [REST vs GraphQL: Which One Should You Choose for Your Next Project?](#)
-* [Optimizing GraphQL Queries for Performance](#)
+- [Getting Started with Apollo Server & Client](#)
+- [REST vs GraphQL: Which One Should You Choose for Your Next Project?](#)
+- [Optimizing GraphQL Queries for Performance](#)
 
 ---
 
-Would you like me to make this blog **SEO-optimized** for platforms like *Hashnode* or *Medium* (with meta title, description, and tags)?
+Would you like me to make this blog **SEO-optimized** for platforms like _Hashnode_ or _Medium_ (with meta title, description, and tags)?
 I can also add **code snippets with syntax highlighting** and **a visually designed cover image description** for posting.
